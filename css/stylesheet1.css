@@ -1,0 +1,79 @@
+/*DEVELOPER: Crystal Orihuela, IS117-003, Fall, 2018 */
+.indexpics{
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom:30px;
+    margin-left: 20px;
+    background: black;
+
+}
+.ratesBox{
+    border: 1px solid black;
+    background: gray;
+    margin-left:40px;
+    margin-top: 70px;
+    margin-right: 40px;
+    color: white;
+    padding: 10px;
+
+
+}
+.ratesBox h3{
+    color:black;
+
+}
+.ratesBox img{
+    width:50px;
+}
+.test {
+    background: white;
+    border: 1px solid black;
+    margin-top: 70px;
+}
+.test h4{
+    color: Black;
+}
+.about img{
+    width:75%;
+}
+.about {
+    margin-top: 70px;
+}
+.about h1 {
+    color: blue;
+}
+nav li a {
+    color: white!important;
+}
+.dropdown-item {
+    color: #0c5460!important;
+}
+.services ul li{
+    list-style-image: url("../images/checked-box.png");
+}
+.bg{
+    background: #6c757d;
+}
+.services {
+    background:#6c757d;
+    color: white;
+
+}
+#white{
+    color: white;
+}
+.contact {
+    margin-top: 10px;
+    background: #6c757d;
+    color:white;
+}
+.homepg {
+    background: white;
+    text-align: center;
+}
+.homepg img {
+    width: 600px;
+}
+.bg {
+    color: white;
+}
